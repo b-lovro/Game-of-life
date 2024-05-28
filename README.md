@@ -41,7 +41,7 @@ To run this game, you need to have Python and Pygame installed. You can install 
 pip install pygame
 ```
 
-###Running the Game
+### Running the Game
 Simply run the script using Python:
 
 ```bash
